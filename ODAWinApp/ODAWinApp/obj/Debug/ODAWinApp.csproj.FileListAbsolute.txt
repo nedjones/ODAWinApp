@@ -1,0 +1,9 @@
+C:\DEV\workspace\ODAWinApp\ODAWinApp\bin\Debug\ODAWinApp.exe.config
+C:\DEV\workspace\ODAWinApp\ODAWinApp\bin\Debug\ODAWinApp.exe
+C:\DEV\workspace\ODAWinApp\ODAWinApp\bin\Debug\ODAWinApp.pdb
+C:\DEV\workspace\ODAWinApp\ODAWinApp\bin\Debug\Oracle.DataAccess.dll
+C:\DEV\workspace\ODAWinApp\ODAWinApp\obj\Debug\ODAWinApp.Form1.resources
+C:\DEV\workspace\ODAWinApp\ODAWinApp\obj\Debug\ODAWinApp.Properties.Resources.resources
+C:\DEV\workspace\ODAWinApp\ODAWinApp\obj\Debug\ODAWinApp.csproj.GenerateResource.Cache
+C:\DEV\workspace\ODAWinApp\ODAWinApp\obj\Debug\ODAWinApp.exe
+C:\DEV\workspace\ODAWinApp\ODAWinApp\obj\Debug\ODAWinApp.pdb
